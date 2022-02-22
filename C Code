@@ -2,5 +2,6 @@
 
 void main()
 {
+  if(0)
   printf("hello");
  }
